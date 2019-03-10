@@ -1,4 +1,5 @@
 # ETH-robot-dynamics
+(Sept 2018 - Dec 2018)
 
 Small simulation exercises realized in the Robot Dynamics course given at ETH Zürich by Prof. Marco Hutter.
 
